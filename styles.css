@@ -1,6 +1,20 @@
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: hsl(40, 85%, 70%);
+}
+
+.backsplash {
+    box-sizing: border-box;
+    width: 1000px;
+    height: 1600px;
+    margin: 32px auto;
+    padding-top: 2px;
+    background-color: hsl(40, 95%, 85%);
+}
+
+h1 {
+    margin: 16px;
+    text-align: center;
 }
 
 h1,
@@ -15,15 +29,10 @@ h2 {
     color: hsl(40, 70%, 30%);
 }
 
-h1 {
-    margin: 16px;
-    text-align: center;
-}
-
 .image {
    display: block;
-   margin: 8px;
-   text-align: center;
+   width: 400px;
+   margin: 8px auto;
 }
 
 h2{
@@ -34,6 +43,7 @@ h2{
     display: inline;
     margin: 0px 8px;
 }
+
 
 li {
     margin-bottom: 4px;

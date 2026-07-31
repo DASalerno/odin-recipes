@@ -26,10 +26,14 @@ h2 {
     color: hsl(40, 70%, 30%);
 }
 
-.image {
+.img-anchor {
    display: block;
    width: 400px;
    margin: 16px auto;
+}
+
+.image {
+    border: solid hsl(0, 0%, 0%);
 }
 
 h2{

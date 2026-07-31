@@ -6,7 +6,7 @@ body {
 .backsplash {
     box-sizing: border-box;
     width: 1000px;
-    height: 1600px;
+    height: 1200px;
     margin: 32px auto;
     padding-top: 2px;
     background-color: hsl(40, 95%, 85%);
@@ -17,11 +17,8 @@ h1 {
     text-align: center;
 }
 
-h1,
 .info {
     margin: 16px 128px;
-    padding: 8px;
-    background-color: hsl(40, 95%, 85%);
 }
 
 h1,
@@ -32,7 +29,7 @@ h2 {
 .image {
    display: block;
    width: 400px;
-   margin: 8px auto;
+   margin: 16px auto;
 }
 
 h2{
@@ -44,6 +41,10 @@ h2{
     margin: 0px 8px;
 }
 
+ul,
+ol {
+    margin: 8px 0px;
+}
 
 li {
     margin-bottom: 4px;

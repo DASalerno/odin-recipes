@@ -11,3 +11,4 @@ Odin Project students.
 an organized manner.
 - Insert links to allow visitors to easily navigate between webpages.
 - Insert images from the Wikipedia Commons with proper attribution.
+- Style and format web page using CSS.
